@@ -43,19 +43,19 @@
         "company":"DEK Technologies",
         "title": "Cloud Engineer",
         "years": "Oct 2019 - Present",
-        "description": "Working in the Cloud Native team. Take responsibility for deployment of application images to Openstack cloud machines of the end users. \n\nInstalls and configures operating systems on the servers. \n\nSupport of OpenStack port security is enabled in customer infrastructure as they see a security risks for IMS operation"
+        "description": "Working in the Cloud Native team. Take responsibility for deployment of application images to Openstack cloud machines of the end users. \n\nInstalls and configures operating systems on the servers. \n\nSupport of OpenStack port security is enabled in customer infrastructure as they see a security risks for IMS operation."
       },
       {
         "company":"DEK Technologies",
         "title":"Software Engineer - Maintenance/Delivery Management team",
         "years":"Mar 2019 – Oct 2019",
-        "description":"Working with the Maintenance team/Project Delivery Management team for the Control Function of the IP Multimedia Subsystem. Take responsibility for technical maintenance tasks, supporting delivery tasks, and working closely with the maintenance manager/supervisor to ensure objectives and timescales are met."
+        "description":"Working with the Maintenance team/Project Delivery Management team for the Control Function of the IP Multimedia Subsystem. \n\nTake responsibility for technical maintenance tasks, supporting delivery tasks, and working closely with the maintenance manager/supervisor to ensure objectives and timescales are met."
       },
       {
         "company":"DEK Technologies",
         "title":"Software Engineer - Development team",
         "years":"Jan 2017 – Mar 2019",
-        "description":"As a software engineer at DEK Technology, Im working in the international teams (Sweden + Vietnam) to develop the features for the Control Function of the IP Multimedia Subsystem (e.g., the feature helps the customer gets faster call set-up times and higher KPIs for VoLTE quality in their networks to win the mobile network competition.). \n\nCollaborating with teammates, project owner and system manager in Sweden to clarify requirements, finding and implementing solutions.\n\nOperating under Agile and Scrum to complete release and well-organized sprints"
+        "description":"As a software engineer at DEK Technology, Im working in the international teams (Sweden + Vietnam) to develop the features for the Control Function of the IP Multimedia Subsystem (e.g., the feature helps the customer gets faster call set-up times and higher KPIs for VoLTE quality in their networks to win the mobile network competition.). \n\nCollaborating with teammates, project owner and system manager in Sweden to clarify requirements, finding and implementing solutions.\n\nOperating under Agile and Scrum to complete release and well-organized sprints."
       }
     ],
     "education":[
@@ -116,7 +116,7 @@
       },
       {
         "title":"Hey Device",
-        "category":"An open source device that reminds the development team to focus on their continuous integration and fix appearing bugs.",
+        "category":"An open source device that reminds the development team to focus on their continuous integration and fix appearing bugs",
         "image":"dekdevice.jpg"
       },
       {
