@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Vy Dinh",
+    "occupation":"Software Engineer",
+    "description":" currently employed by ",
+    "employer":"Dek Technologies",
+    "jobDescription":"Cloud/Software engineer",
+    "image":"profile_pic.jpg",
+    "bio":"Experienced Software Engineer with a demonstrated history of 3 years working in the Information Technology. Skilled in Java, Javascript, C++ languages, OOP concepts, Spring Boot, Reactjs, Node.js, Docker and Kubernetes.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "dnthuyvy@gmail.com",
+    "phone": "(84) 90-2464-075",
+    "address":{
+      "street":"Nguyen U Di",
+      "city":"HCMC",
+      "state":"District 2",
+      "zip": "​70000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "cvDownload":"https://drive.google.com/file/d/1_1JtJ7saev-IPNjx8OSfAm15Nz1oSgqk/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/dnthuyvy",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dhnthuyvy/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/thuyvy3110",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "work":[
+      {
+        "company":"Dek Technologies",
+        "title": "Cloud Engineer",
+        "years": "Oct 2019 - Present",
+        "description": "Working in the Cloud Native team. Take responsibility for deployment of application images to Openstack cloud machines of the end users. \n\nInstalls and configures operating systems on the servers. \n\nSupport of OpenStack port security is enabled in customer infrastructure as they see a security risks for IMS operation"
+      },
+      {
+        "company":"Dek Technologies",
+        "title":"Software Engineer - Maintenance/Delivery Management team",
+        "years":"Mar 2019 – Oct 2019",
+        "description":"Working with the Maintenance team/Project Delivery Management team for the Control Function of the IP Multimedia Subsystem. Take responsibility for technical maintenance tasks, supporting delivery tasks, and working closely with the maintenance manager/supervisor to ensure objectives and timescales are met."
+      },
+      {
+        "company":"Dek Technologies",
+        "title":"Software Engineer - Development team",
+        "years":"Jan 2017 – Mar 2019",
+        "description":"As a software engineer at DEK Technology, Im working in the international teams (Sweden + Vietnam) to develop the features for the Control Function of the IP Multimedia Subsystem (e.g., the feature helps the customer gets faster call set-up times and higher KPIs for VoLTE quality in their networks to win the mobile network competition.). \n\nCollaborating with teammates, project owner and system manager in Sweden to clarify requirements, finding and implementing solutions.\n\nOperating under Agile and Scrum to complete release and well-organized sprints"
+      }
+    ],
+    "education":[
+      {
+        "school":"University of Science HCMC",
+        "degree":"Bachelors in Physics and Electronics",
+        "graduated":"2011 - 2016"        
+      }
+    ],
+    "skills":[
+      {
+        "name":"React Js",        
+        "image":"react.jpg"
+      },
+      {
+        "name":"Node JS",        
+        "image":"node.jpg"
+      },
+      {
+        "name":"Java",        
+        "image":"java.jpg"
+      },
+      {
+        "name":"Spring",        
+        "image":"springjava.jpg"
+      },
+
+      {
+        "name":"Docker",        
+        "image":"docker.jpg"
+      },
+      {
+        "name":"Kubernetes",        
+        "image":"kubernetes.jpg"
+      },
+      {
+        "name":"MySQL",        
+        "image":"mysql.jpg"
+      },
+      {
+        "name":"MongoDB",        
+        "image":"mongo.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"IMS Project",
+        "category":"IP Multimedia Subsystem",
+        "image":"ims.jpg",
+        "url":"https://en.wikipedia.org/wiki/IP_Multimedia_Subsystem"
+      },
+      {
+        "title":"Company Training Website",
+        "category":"Website DEK Competences Center",
+        "image":"dekcourse.jpg"
+      },
+      {
+        "title":"Hey Device",
+        "category":"Developed and maintained an open source device that reminds the development team to focus on their continuous integration and fix appearing bugs.",
+        "image":"heydevice.jpg"
+      },
+      {
+        "title":"Thesis",
+        "category":"Velocity Measurement of The Moving Object Using Microwave Motion Sensor Module",
+        "image":"device.jpg"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user":"Alastair Beaumont - Web Developer at AppColony"
+      }
+    ]
+  }
+}
