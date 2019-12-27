@@ -112,17 +112,17 @@
       {
         "title":"Company Training Website",
         "category":"Website DEK Competences Center",
-        "image":"dekcourse.jpg"
+        "image":"coursedek.jpg"
       },
       {
         "title":"Hey Device",
         "category":"An open source device that reminds the development team to focus on their continuous integration and fix appearing bugs.",
-        "image":"heydevice.jpg"
+        "image":"dekdevice.jpg"
       },
       {
         "title":"Thesis",
         "category":"Velocity Measurement of The Moving Object Using Microwave Motion Sensor Module",
-        "image":"device.jpg"
+        "image":"vydevice.jpg"
       }
     ]
   },
