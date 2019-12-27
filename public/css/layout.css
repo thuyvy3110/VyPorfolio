@@ -355,11 +355,11 @@ ul#nav li.current a { color: #87b8f5; }
    -o-transition: all 1s ease;
 }
 .portfolio-item .item-wrap:hover {
-   transform: scale(1.5,1.5);
-   -webkit-transform: scale(1.5,1.5);
-   -moz-transform: scale(1.5,1.5);
-   -o-transform: scale(1.5,1.5);
-   -ms-transform: scale(1.5,1.5);
+   transform: scale(1.4,1.4);
+   -webkit-transform: scale(1.4,1.4);
+   -moz-transform: scale(1.4,1.4);
+   -o-transform: scale(1.4,1.4);
+   -ms-transform: scale(1.4,1.4);
 }
 .portfolio-item .item-wrap a {
    display: block;

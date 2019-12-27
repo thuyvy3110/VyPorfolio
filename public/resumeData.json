@@ -3,7 +3,7 @@
     "name":"Vy Dinh",
     "occupation":"Software Engineer",
     "description":" currently employed by ",
-    "employer":"Dek Technologies",
+    "employer":"DEK Technologies",
     "jobDescription":"Cloud/Software engineer",
     "image":"profile_pic.jpg",
     "bio":"Experienced Software Engineer with a demonstrated history of 3 years working in the Information Technology. Skilled in Java, Javascript, C++ languages, OOP concepts, Spring Boot, Reactjs, Node.js, Docker and Kubernetes.",
@@ -40,19 +40,19 @@
     "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "work":[
       {
-        "company":"Dek Technologies",
+        "company":"DEK Technologies",
         "title": "Cloud Engineer",
         "years": "Oct 2019 - Present",
         "description": "Working in the Cloud Native team. Take responsibility for deployment of application images to Openstack cloud machines of the end users. \n\nInstalls and configures operating systems on the servers. \n\nSupport of OpenStack port security is enabled in customer infrastructure as they see a security risks for IMS operation"
       },
       {
-        "company":"Dek Technologies",
+        "company":"DEK Technologies",
         "title":"Software Engineer - Maintenance/Delivery Management team",
         "years":"Mar 2019 – Oct 2019",
         "description":"Working with the Maintenance team/Project Delivery Management team for the Control Function of the IP Multimedia Subsystem. Take responsibility for technical maintenance tasks, supporting delivery tasks, and working closely with the maintenance manager/supervisor to ensure objectives and timescales are met."
       },
       {
-        "company":"Dek Technologies",
+        "company":"DEK Technologies",
         "title":"Software Engineer - Development team",
         "years":"Jan 2017 – Mar 2019",
         "description":"As a software engineer at DEK Technology, Im working in the international teams (Sweden + Vietnam) to develop the features for the Control Function of the IP Multimedia Subsystem (e.g., the feature helps the customer gets faster call set-up times and higher KPIs for VoLTE quality in their networks to win the mobile network competition.). \n\nCollaborating with teammates, project owner and system manager in Sweden to clarify requirements, finding and implementing solutions.\n\nOperating under Agile and Scrum to complete release and well-organized sprints"
