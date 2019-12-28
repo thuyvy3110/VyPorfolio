@@ -14,11 +14,17 @@
     /* header styles
    ------------------------------------------------------------------ */
    header .banner-text h1 {
-      font: 80px/1.1em 'opensans-bold', sans-serif;
+      font: 100px/1.1em 'opensans-bold', sans-serif;
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
    }
 
+   .line-1 {
+      font-size: 240%;
+      width: 24em;
+      line-height: 60px;
+      transform: translateY(-30%);
+   }
 }
 
 /* screenwidth less than 900px
@@ -36,7 +42,7 @@
       font: 17px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
    }
-   header .banner-text hr {
+   header .-text hr {
       width: 65%;
       margin: 12px auto;
    }
@@ -89,7 +95,11 @@
    }
    #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
 
-
+   .line-1 {
+      font-size: 200%;
+      width: 18em;
+      line-height: 60px;
+   }    
 }
 
 /* mobile wide/smaller tablets
@@ -196,6 +206,13 @@
       font: 16px/1.9em 'librebaskerville-regular', serif;
       width: 85%;
    }
+
+   .line-1 {
+      transform: translateY(10%);
+      font-size: 11px;
+
+   }
+
    header .banner-text hr {
       width: 80%;
       margin: 18px auto;
@@ -358,7 +375,12 @@
       font: 14px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
    }
-  
+
+   .line-1 {
+      font-size: 110%;
+      width: 18em;
+   }
+    
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
@@ -373,6 +395,13 @@
 }
 
 
+@media only screen and (max-width: 320px) {
+   .line-1 {
+      font-size: 90%;
+      width: 16em;
+      line-height: 30px;
+   }
+}
 
 
 
