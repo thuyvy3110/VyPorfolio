@@ -11,11 +11,11 @@
     "email": "dnthuyvy@gmail.com",
     "phone": "(84) 90-2464-075",
     "address":{
-      "street":"Nguyen U Di",
+      "street":"Thao Dien",
       "city":"Ho Chi Minh city",
       "state":"District 2"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://vyfolio.herokuapp.com",
     "cvdownload":"https://drive.google.com/file/d/1_1JtJ7saev-IPNjx8OSfAm15Nz1oSgqk/view?usp=sharing",
     "social":[
       {
