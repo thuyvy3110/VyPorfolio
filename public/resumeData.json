@@ -61,7 +61,7 @@
       {
         "school":"University of Science HCMC",
         "degree":"Bachelors in Physics and Electronics",
-        "graduated":"2011 - 2016"        
+        "graduated":"2016"        
       }
     ],
     "skills":[
@@ -121,7 +121,8 @@
       {
         "title":"Thesis",
         "category":"Velocity Measurement of The Moving Object Using Microwave Motion Sensor Module",
-        "image":"vydevice.jpg"
+        "image":"vydevice.jpg",
+        "url":"https://youtu.be/BTyfRiGn5OI"
       }
     ]
   },
