@@ -3,10 +3,10 @@
     "name":"Vy Dinh",
     "occupation":"Engineer",
     "description":" currently employed by ",
-    "employer":"DEK Technologies",
-    "jobDescription":"Software/Cloud Engineer",
+    "employer":"Pascalia Asia",
+    "jobDescription":"Software Engineer",
     "image":"profile_pic.jpg",
-    "bio":"Experienced Software Engineer with a demonstrated history of 3 years working in the Information Technology. Skilled in Java, Javascript, C++ languages, OOP concepts, Spring Boot, Reactjs, Node.js, Docker and Kubernetes.",
+    "bio":"Experienced Software Engineer with a demonstrated history of more than 3 years working in the Information Technology.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email if you'd like to get in contact with me.",
     "email": "dnthuyvy@gmail.com",
     "phone": "(84) 90-2464-075",
@@ -38,23 +38,23 @@
   "resume":{
     "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "work":[
-      {
-        "company":"DEK Technologies",
-        "title": "Cloud Engineer",
-        "years": "Oct 2019 - Present",
-        "description": "Working in the Cloud Native team. Take responsibility for deployment of application images to Openstack cloud machines of the end users. \n\nInstalls and configures operating systems on the servers. \n\nSupport of OpenStack port security is enabled in customer infrastructure as they see a security risks for IMS operation."
+       {
+        "company":"Pascalia Asia",
+        "title": "Software Engineer - Tradeshift team",
+        "years": "Feb 2020 - Present",
+        "description": "Worked as a key product developer, to take ownership of building the Accounts Receivable Lite app. Launch new features, as well as improving existing features for apps: Request for Quotation, Purchase Order, Payment Request. \n\nFixed bugs on development tracks and customer’s requests. \n\nImplemented test scenarios. \n\nWorked closely with SE, QA, PM to resolve issues raised by customers asap."
       },
       {
         "company":"DEK Technologies",
-        "title":"Software Engineer - Maintenance/Delivery Management team",
-        "years":"Mar 2019 – Oct 2019",
-        "description":"Working with the Maintenance team/Project Delivery Management team for the Control Function of the IP Multimedia Subsystem. \n\nTake responsibility for technical maintenance tasks, supporting delivery tasks, and working closely with the maintenance manager/supervisor to ensure objectives and timescales are met."
+        "title": "Software Engineer - Cloud Native team",
+        "years": "Nov 2019 - Jan 2020",
+        "description": "Work closely and support the team to deploy CSCF to the Cloud Infrastructure Open-stack following distributed architecture, as well as configure the operating system on the servers. \n\nStudy Docker, Kubernetes, AWS."
       },
       {
         "company":"DEK Technologies",
-        "title":"Software Engineer - Development team",
-        "years":"Jan 2017 – Mar 2019",
-        "description":"As a software engineer at DEK Technology, Im working in the international teams (Sweden + Vietnam) to develop the features for the Control Function of the IP Multimedia Subsystem (e.g., the feature helps the customer gets faster call set-up times and higher KPIs for VoLTE quality in their networks to win the mobile network competition.). \n\nCollaborating with teammates, project owner and system manager in Sweden to clarify requirements, finding and implementing solutions.\n\nOperating under Agile and Scrum to complete release and well-organized sprints."
+        "title":"Software Engineer - Call Session Control Function (CSCF) team",
+        "years":"Mar 2019 – Nov 2019",
+        "description":"Work in a cross-functional team to develop and maintain new features (e.g., the feature helps the customer gets faster call set-uptimes and higher KPIs for VoLTE quality in their networks to win the mobile network competition). \n\nWorked closely with the team, Project Owner, and System Manager in Sweden to clarify requirements, finding and implementing solutions. \n\nImplemented Unit test, Function test, conducted Early System test, Load test. \n\nSupporting the delivery task."
       }
     ],
     "education":[
@@ -78,7 +78,7 @@
         "image":"java.jpg"
       },
       {
-        "name":"Spring",        
+        "name":"Spring Boot",        
         "image":"springjava.jpg"
       },
 
